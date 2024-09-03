@@ -30,4 +30,4 @@ $cd frontend
 
 $npm install
 
-$nom start
+$npm start
