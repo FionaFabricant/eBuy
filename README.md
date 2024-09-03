@@ -17,11 +17,17 @@ CLOUDINARY_API_SECRET=
 3.连接本地MongoDB
 
 4.运行后端
+
 $cd backend
+
 $npm install
+
 $npm start
 
 5.运行前端
+
 $cd frontend
+
 $npm install
+
 $nom start
